@@ -3,6 +3,7 @@
 A clean, responsive personal finance web app built with **Python** and **Streamlit**. Log your daily expenses, visualize spending patterns with interactive charts, filter by date range, and manage transactions — all in one place, with no sign-up required.
 
 ![App Screenshot](assets/screenshot.png)
+![App Screenshot 2](assets/screenshot1.png)
 
 ---
 
